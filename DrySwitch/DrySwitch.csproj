@@ -42,16 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DryPayroll.cs" />
-    <Compile Include="Employee.cs" />
-    <Compile Include="EmployeeFactory.cs" />
-    <Compile Include="EmployeeType.cs" />
-    <Compile Include="HourlyEmployee.cs" />
-    <Compile Include="IEmployee.cs" />
-    <Compile Include="Payroll.cs" />
+    <Compile Include="Payroll\DryPayroll.cs" />
+    <Compile Include="Employee\Employee.cs" />
+    <Compile Include="Employee\EmployeeFactory.cs" />
+    <Compile Include="Employee\EmployeeType.cs" />
+    <Compile Include="Employee\HourlyEmployee.cs" />
+    <Compile Include="Employee\IEmployee.cs" />
+    <Compile Include="Payroll\Payroll.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SalaryEmployee.cs" />
+    <Compile Include="Employee\SalaryEmployee.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
