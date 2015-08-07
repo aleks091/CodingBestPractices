@@ -1,0 +1,6 @@
+D:\dev\VisualStudio13\CodingBestPractices\DrySwitch\bin\Debug\DrySwitch.exe.config
+D:\dev\VisualStudio13\CodingBestPractices\DrySwitch\bin\Debug\DrySwitch.exe
+D:\dev\VisualStudio13\CodingBestPractices\DrySwitch\bin\Debug\DrySwitch.pdb
+D:\dev\VisualStudio13\CodingBestPractices\DrySwitch\obj\Debug\DrySwitch.csprojResolveAssemblyReference.cache
+D:\dev\VisualStudio13\CodingBestPractices\DrySwitch\obj\Debug\DrySwitch.exe
+D:\dev\VisualStudio13\CodingBestPractices\DrySwitch\obj\Debug\DrySwitch.pdb
