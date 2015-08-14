@@ -61,3 +61,7 @@ D:\dev\VisualStudio13\CodingBestPractices\RestAPI\bin\System.Web.Http.Owin.xml
 D:\dev\VisualStudio13\CodingBestPractices\RestAPI\obj\Debug\RestAPI.csprojResolveAssemblyReference.cache
 D:\dev\VisualStudio13\CodingBestPractices\RestAPI\obj\Debug\RestAPI.dll
 D:\dev\VisualStudio13\CodingBestPractices\RestAPI\obj\Debug\RestAPI.pdb
+D:\dev\VisualStudio13\CodingBestPractices\RestAPI\bin\DataContracts.dll
+D:\dev\VisualStudio13\CodingBestPractices\RestAPI\bin\LogicaNegocios.dll
+D:\dev\VisualStudio13\CodingBestPractices\RestAPI\bin\DataContracts.pdb
+D:\dev\VisualStudio13\CodingBestPractices\RestAPI\bin\LogicaNegocios.pdb

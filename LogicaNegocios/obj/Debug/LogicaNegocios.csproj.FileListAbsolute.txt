@@ -3,3 +3,5 @@ D:\dev\VisualStudio13\CodingBestPractices\LogicaNegocios\bin\Debug\LogicaNegocio
 D:\dev\VisualStudio13\CodingBestPractices\LogicaNegocios\obj\Debug\LogicaNegocios.csprojResolveAssemblyReference.cache
 D:\dev\VisualStudio13\CodingBestPractices\LogicaNegocios\obj\Debug\LogicaNegocios.dll
 D:\dev\VisualStudio13\CodingBestPractices\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+D:\dev\VisualStudio13\CodingBestPractices\LogicaNegocios\bin\Debug\DataContracts.dll
+D:\dev\VisualStudio13\CodingBestPractices\LogicaNegocios\bin\Debug\DataContracts.pdb

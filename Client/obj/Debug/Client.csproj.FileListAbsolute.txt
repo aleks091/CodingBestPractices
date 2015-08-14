@@ -4,3 +4,5 @@ D:\dev\VisualStudio13\CodingBestPractices\Client\bin\Debug\Client.pdb
 D:\dev\VisualStudio13\CodingBestPractices\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 D:\dev\VisualStudio13\CodingBestPractices\Client\obj\Debug\Client.exe
 D:\dev\VisualStudio13\CodingBestPractices\Client\obj\Debug\Client.pdb
+D:\dev\VisualStudio13\CodingBestPractices\Client\bin\Debug\DataContracts.dll
+D:\dev\VisualStudio13\CodingBestPractices\Client\bin\Debug\DataContracts.pdb
