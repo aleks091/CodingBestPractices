@@ -1,0 +1,5 @@
+D:\dev\VisualStudio13\CodingBestPractices\DataContracts\bin\Debug\DataContracts.dll
+D:\dev\VisualStudio13\CodingBestPractices\DataContracts\bin\Debug\DataContracts.pdb
+D:\dev\VisualStudio13\CodingBestPractices\DataContracts\obj\Debug\DataContracts.csprojResolveAssemblyReference.cache
+D:\dev\VisualStudio13\CodingBestPractices\DataContracts\obj\Debug\DataContracts.dll
+D:\dev\VisualStudio13\CodingBestPractices\DataContracts\obj\Debug\DataContracts.pdb

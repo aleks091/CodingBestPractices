@@ -1,0 +1,6 @@
+D:\dev\VisualStudio13\CodingBestPractices\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+D:\dev\VisualStudio13\CodingBestPractices\Examples\bin\Debug\Examples.exe.config
+D:\dev\VisualStudio13\CodingBestPractices\Examples\bin\Debug\Examples.exe
+D:\dev\VisualStudio13\CodingBestPractices\Examples\bin\Debug\Examples.pdb
+D:\dev\VisualStudio13\CodingBestPractices\Examples\obj\Debug\Examples.exe
+D:\dev\VisualStudio13\CodingBestPractices\Examples\obj\Debug\Examples.pdb
