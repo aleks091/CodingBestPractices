@@ -1,0 +1,5 @@
+D:\dev\VisualStudio13\CodingBestPractices\RefactorizacionTests\bin\Debug\RefactorizacionTests.dll
+D:\dev\VisualStudio13\CodingBestPractices\RefactorizacionTests\bin\Debug\RefactorizacionTests.pdb
+D:\dev\VisualStudio13\CodingBestPractices\RefactorizacionTests\obj\Debug\RefactorizacionTests.csprojResolveAssemblyReference.cache
+D:\dev\VisualStudio13\CodingBestPractices\RefactorizacionTests\obj\Debug\RefactorizacionTests.dll
+D:\dev\VisualStudio13\CodingBestPractices\RefactorizacionTests\obj\Debug\RefactorizacionTests.pdb
