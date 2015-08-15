@@ -1,0 +1,5 @@
+D:\dev\VisualStudio13\CodingBestPractices\ContratosDatos\bin\Debug\ContratosDatos.dll
+D:\dev\VisualStudio13\CodingBestPractices\ContratosDatos\bin\Debug\ContratosDatos.pdb
+D:\dev\VisualStudio13\CodingBestPractices\ContratosDatos\obj\Debug\ContratosDatos.dll
+D:\dev\VisualStudio13\CodingBestPractices\ContratosDatos\obj\Debug\ContratosDatos.pdb
+D:\dev\VisualStudio13\CodingBestPractices\ContratosDatos\obj\Debug\ContratosDatos.csprojResolveAssemblyReference.cache

@@ -2,3 +2,8 @@ D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\bin\Debug\Distrib
 D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\bin\Debug\DistribuidorLlamadas.pdb
 D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\obj\Debug\DistribuidorLlamadas.dll
 D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\obj\Debug\DistribuidorLlamadas.pdb
+D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\obj\Debug\DistribuidorLlamadas.csprojResolveAssemblyReference.cache
+D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\bin\Debug\AccesoDatos.dll
+D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\bin\Debug\AccesoDatos.pdb
+D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\bin\Debug\ContratosDatos.dll
+D:\dev\VisualStudio13\CodingBestPractices\DistribuidorLlamadas\bin\Debug\ContratosDatos.pdb

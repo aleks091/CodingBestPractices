@@ -35,6 +35,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Moq">
+      <HintPath>..\packages\Moq.4.2.1507.0118\lib\net40\Moq.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Choose>
@@ -52,6 +58,25 @@
   <ItemGroup>
     <Compile Include="ReenvioLlamadasTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{42094970-c8fe-4115-a8b0-e777d420343f}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ContratosDatos\ContratosDatos.csproj">
+      <Project>{e720c9b0-ea37-4a14-8e2a-83b373de5ab5}</Project>
+      <Name>ContratosDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DistribuidorLlamadas\DistribuidorLlamadas.csproj">
+      <Project>{733af6fb-a594-4b62-9b6d-0292fc7c5485}</Project>
+      <Name>DistribuidorLlamadas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

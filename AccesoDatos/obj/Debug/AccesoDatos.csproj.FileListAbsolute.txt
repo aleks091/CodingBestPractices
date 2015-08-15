@@ -3,3 +3,5 @@ D:\dev\VisualStudio13\CodingBestPractices\AccesoDatos\bin\Debug\AccesoDatos.pdb
 D:\dev\VisualStudio13\CodingBestPractices\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
 D:\dev\VisualStudio13\CodingBestPractices\AccesoDatos\obj\Debug\AccesoDatos.dll
 D:\dev\VisualStudio13\CodingBestPractices\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\dev\VisualStudio13\CodingBestPractices\AccesoDatos\bin\Debug\ContratosDatos.dll
+D:\dev\VisualStudio13\CodingBestPractices\AccesoDatos\bin\Debug\ContratosDatos.pdb

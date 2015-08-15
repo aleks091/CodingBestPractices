@@ -42,6 +42,12 @@
     <Compile Include="DataApi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ContratosDatos\ContratosDatos.csproj">
+      <Project>{e720c9b0-ea37-4a14-8e2a-83b373de5ab5}</Project>
+      <Name>ContratosDatos</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

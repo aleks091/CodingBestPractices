@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistribuidorLlamadas", "Dis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{42094970-C8FE-4115-A8B0-E777D420343F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContratosDatos", "ContratosDatos\ContratosDatos.csproj", "{E720C9B0-EA37-4A14-8E2A-83B373DE5AB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{42094970-C8FE-4115-A8B0-E777D420343F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42094970-C8FE-4115-A8B0-E777D420343F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42094970-C8FE-4115-A8B0-E777D420343F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E720C9B0-EA37-4A14-8E2A-83B373DE5AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E720C9B0-EA37-4A14-8E2A-83B373DE5AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E720C9B0-EA37-4A14-8E2A-83B373DE5AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E720C9B0-EA37-4A14-8E2A-83B373DE5AB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,5 +85,6 @@ Global
 		{FF1F6FA9-ACA6-441D-8ADC-960B10E4840D} = {521E94A7-EBD9-48C4-B24E-3F73B369725D}
 		{733AF6FB-A594-4B62-9B6D-0292FC7C5485} = {521E94A7-EBD9-48C4-B24E-3F73B369725D}
 		{42094970-C8FE-4115-A8B0-E777D420343F} = {521E94A7-EBD9-48C4-B24E-3F73B369725D}
+		{E720C9B0-EA37-4A14-8E2A-83B373DE5AB5} = {521E94A7-EBD9-48C4-B24E-3F73B369725D}
 	EndGlobalSection
 EndGlobal
